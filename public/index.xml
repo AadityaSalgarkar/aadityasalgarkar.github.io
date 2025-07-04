@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aaditya</title>
-    <link>http://localhost:1313/</link>
+    <link>https://aadis.co.in/</link>
     <description>Recent content on Aaditya</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 21 Aug 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://aadis.co.in/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Font generation using GAN</title>
-      <link>http://localhost:1313/project/font_creation/</link>
+      <link>https://aadis.co.in/project/font_creation/</link>
       <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/font_creation/</guid>
+      <guid>https://aadis.co.in/project/font_creation/</guid>
       <description>Generate fonts using GAN</description>
     </item>
     <item>
       <title>Fundamentals of Algorithms</title>
-      <link>http://localhost:1313/project/algorithm-fundamentals/</link>
+      <link>https://aadis.co.in/project/algorithm-fundamentals/</link>
       <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/algorithm-fundamentals/</guid>
+      <guid>https://aadis.co.in/project/algorithm-fundamentals/</guid>
       <description>Study of fundamental algorithms and data structures.</description>
     </item>
     <item>
       <title>Fundamentals of Machine learning</title>
-      <link>http://localhost:1313/project/ml-fundamentals/</link>
+      <link>https://aadis.co.in/project/ml-fundamentals/</link>
       <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/ml-fundamentals/</guid>
+      <guid>https://aadis.co.in/project/ml-fundamentals/</guid>
       <description>Study of fundamental algorithms and idea in machine learning.</description>
     </item>
   </channel>

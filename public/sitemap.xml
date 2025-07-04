@@ -2,31 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://aadis.co.in/</loc>
     <lastmod>2023-08-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/algorithms/</loc>
+    <loc>https://aadis.co.in/tags/algorithms/</loc>
     <lastmod>2023-08-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/font_creation/</loc>
+    <loc>https://aadis.co.in/project/font_creation/</loc>
     <lastmod>2023-08-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/algorithm-fundamentals/</loc>
+    <loc>https://aadis.co.in/project/algorithm-fundamentals/</loc>
     <lastmod>2023-08-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/ml-fundamentals/</loc>
+    <loc>https://aadis.co.in/project/ml-fundamentals/</loc>
     <lastmod>2023-08-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/</loc>
+    <loc>https://aadis.co.in/project/</loc>
     <lastmod>2023-08-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://aadis.co.in/tags/</loc>
     <lastmod>2023-08-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/</loc>
+    <loc>https://aadis.co.in/authors/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://aadis.co.in/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://aadis.co.in/post/</loc>
   </url>
 </urlset>

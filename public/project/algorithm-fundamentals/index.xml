@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fundamentals of Algorithms on Aaditya</title>
-    <link>http://localhost:1313/project/algorithm-fundamentals/</link>
+    <link>https://aadis.co.in/project/algorithm-fundamentals/</link>
     <description>Recent content in Fundamentals of Algorithms on Aaditya</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/project/algorithm-fundamentals/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://aadis.co.in/project/algorithm-fundamentals/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
