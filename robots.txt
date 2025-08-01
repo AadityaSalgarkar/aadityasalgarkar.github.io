@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://aadityasalgarkar.github.io/sitemap.xml
+Sitemap: https://AadityaSalgarkar.github.io/sitemap.xml
