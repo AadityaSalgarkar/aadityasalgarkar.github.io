@@ -33,7 +33,5 @@ I am a PhD in theoretical physics interested in programming, optimization and ar
 - Fine tuning using verifiable rewards
 
 **Education:**
-- PhD in Theoretical Physics, University of Porto (2023)
+- PhD in Theoretical Physics (String theory and Conformal Field Theory), University of Porto (2023)
 - Integrated Masters in Physics, Indian Institute of Technology, Kharagpur (2016)
-
-During my PhD, my research interest revolved around conformal field theory and its relation to quantum gravity via AdS/CFT correspondence. Using the general quantitative aptitude developed through this study, I am interested in exploring the field of artificial intelligence and machine learning.
