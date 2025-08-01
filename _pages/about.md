@@ -28,9 +28,9 @@ latest_posts:
 
 I am a PhD in theoretical physics interested in programming, optimization and artificial intelligence. My interests include:
 
-- Artificial Intelligence and machine learning
-- Physics and mathematics  
-- Data structures and algorithms
+- Energy based models
+- Optimizations
+- Fine tuning using verifiable rewards
 
 **Education:**
 - PhD in Theoretical Physics, University of Porto (2023)
