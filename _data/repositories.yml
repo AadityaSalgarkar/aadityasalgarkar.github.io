@@ -4,6 +4,14 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - AadityaSalgarkar/thesis
-  - AadityaSalgarkar/font_creation
+  - AadityaSalgarkar/aadityasalgarkar.github.io
+  - AadityaSalgarkar/prime-rl
+  - AadityaSalgarkar/ijepa-freq
+  - AadityaSalgarkar/coup-eval
+  - AadityaSalgarkar/nanodeepseek
+  - AadityaSalgarkar/pytorch
   - AadityaSalgarkar/sae-resnet-50
+  - AadityaSalgarkar/font_creation
+  - AadityaSalgarkar/dotfiles
+  - AadityaSalgarkar/lc0
+  - AadityaSalgarkar/thesis
