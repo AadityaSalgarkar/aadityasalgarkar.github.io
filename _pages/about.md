@@ -33,3 +33,7 @@ I am a PhD in theoretical physics interested in programming, optimization and ar
 **Education:**
 - PhD in Theoretical Physics (String theory and Conformal Field Theory), University of Porto (2023)
 - Integrated Masters in Physics, Indian Institute of Technology, Kharagpur (2016)
+
+**Achievements:**
+- [World Rank 334 in Codeforces Contest 1828](https://codeforces.com/contest/1828/standings/participant/155449275#p155449275)
+- [World Rank 1787 in Meta Hacker Cup 2023](https://www.facebook.com/codingcompetitions/hacker-cup/2023/round-2/scoreboard)
