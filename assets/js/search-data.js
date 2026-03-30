@@ -94,7 +94,7 @@ ninja.data = [{
         title: 'Inspire HEP',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://inspirehep.net/authors/1932545", "_blank");
         },
       },{
       id: 'light-theme',
